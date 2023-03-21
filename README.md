@@ -1,4 +1,4 @@
-# RabbitMQ-Hellow-World
+# RabbitMQ-Hello-World
 A basic program with Go to understand and test RabbitMq pulled from docker hub
 
 #### Use the following command to pull docker image from docker hub 
